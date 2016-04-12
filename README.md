@@ -1,5 +1,5 @@
-# Fluffy
-Fluffy is a distributed file storage system built for storing and retrieving the files. Users are allowed to store and retrieve any type of file varying from docx, pdf, zip documents also images of format PNG, JPEG and multimedia file like mp3. It’s a highly scalable, secure, fault tolerant and efficient file storage system able to handle multiple queries simultaneously.
+# Google Drive Prototype
+A distributed file storage system built for storing and retrieving the files. Users are allowed to store and retrieve any type of file varying from docx, pdf, zip documents also images of format PNG, JPEG and multimedia file like mp3. It’s a highly scalable, secure, fault tolerant and efficient file storage system able to handle multiple queries simultaneously.
 
 ###Prerequisites
     This project requires the following JAR files(They are present in the /lib folder of the project).
